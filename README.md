@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/hero_banner.svg">
+<img src="img/banner.png">
 
 <!--About me: start-->
 <img src="img/hi_there.png">
